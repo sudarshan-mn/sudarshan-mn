@@ -41,21 +41,22 @@ Building scalable backend systems and solving real-world problems with clean and
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 🛠 Enterprise Complaint SLA Management System (Backend)
+### 🛠 Enterprise Complaint SLA Management System (Backend)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-mn\&repo=Enterprise-Complaint-SLA-Management-System-Backend\&theme=tokyonight)](https://github.com/sudarshan-mn/Enterprise-Complaint-SLA-Management-System-Backend)
 
 Spring Boot backend system designed to manage enterprise complaints with SLA tracking and secure authentication.
 
 Tech Stack
 Java • Spring Boot • JWT • MySQL • REST API
 
-Repository
-https://github.com/sudarshan-mn/Enterprise-Complaint-SLA-Management-System-Backend
-
 ---
 
-## 🎨 Enterprise Complaint SLA Management System (Frontend)
+### 🎨 Enterprise Complaint SLA Management System (Frontend)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-mn\&repo=Enterprise-Complaint-Sla-Management-frontend\&theme=tokyonight)](https://github.com/sudarshan-mn/Enterprise-Complaint-Sla-Management-frontend)
 
 Frontend interface for the complaint management system.
 
@@ -65,12 +66,11 @@ Features
 • Admin dashboard
 • Complaint tracking UI
 
-Repository
-https://github.com/sudarshan-mn/Enterprise-Complaint-Sla-Management-frontend
-
 ---
 
-## 🏨 Airbnb Inspired Booking Platform
+### 🏨 Airbnb Inspired Booking Platform
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-mn\&repo=booking--platform-backend\&theme=tokyonight)](https://github.com/sudarshan-mn/booking--platform-backend)
 
 Backend architecture inspired by Airbnb platform.
 
@@ -80,11 +80,9 @@ Features
 • Booking management
 • REST API architecture
 
-Repository
-https://github.com/sudarshan-mn
-
 ---
-## 📊 GitHub Stats
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -93,11 +91,18 @@ https://github.com/sudarshan-mn
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshan-mn&theme=github_dark"/>
 
 </p>
-## 🐍 Contribution Snake
+
+---
+
+# 📈 Contribution Activity Graph
+
+[![Sudarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-mn\&theme=tokyo-night)](https://github.com/sudarshan-mn)
+
+---
+
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/sudarshan-mn/sudarshan-mn/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ---
 
