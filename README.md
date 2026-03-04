@@ -43,24 +43,27 @@ Building scalable backend systems and solving real-world problems with clean and
 
 # 🚀 Featured Projects
 
-### 🛠 Enterprise Complaint SLA Management System (Backend)
+## 🛠 Enterprise Complaint SLA Management System (Backend)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-mn\&repo=Enterprise-Complaint-SLA-Management-System-Backend\&theme=tokyonight)](https://github.com/sudarshan-mn/Enterprise-Complaint-SLA-Management-System-Backend)
+🔗 Repository
+https://github.com/sudarshan-mn/Enterprise-Complaint-SLA-Management-System-Backend
 
 Spring Boot backend system designed to manage enterprise complaints with SLA tracking and secure authentication.
 
-Tech Stack
+**Tech Stack**
+
 Java • Spring Boot • JWT • MySQL • REST API
 
 ---
 
-### 🎨 Enterprise Complaint SLA Management System (Frontend)
+## 🎨 Enterprise Complaint SLA Management System (Frontend)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-mn\&repo=Enterprise-Complaint-Sla-Management-frontend\&theme=tokyonight)](https://github.com/sudarshan-mn/Enterprise-Complaint-Sla-Management-frontend)
+🔗 Repository
+https://github.com/sudarshan-mn/Enterprise-Complaint-Sla-Management-frontend
 
 Frontend interface for the complaint management system.
 
-Features
+**Features**
 
 • Complaint submission interface
 • Admin dashboard
@@ -68,13 +71,14 @@ Features
 
 ---
 
-### 🏨 Airbnb Inspired Booking Platform
+## 🏨 Airbnb Inspired Booking Platform
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sudarshan-mn\&repo=booking--platform-backend\&theme=tokyonight)](https://github.com/sudarshan-mn/booking--platform-backend)
+🔗 Repository
+https://github.com/sudarshan-mn
 
 Backend architecture inspired by Airbnb platform.
 
-Features
+**Features**
 
 • Property listing system
 • Booking management
