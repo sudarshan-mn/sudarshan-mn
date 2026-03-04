@@ -84,18 +84,16 @@ Repository
 https://github.com/sudarshan-mn
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudarshan-mn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshan-mn&theme=github_dark"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-mn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshan-mn&theme=github_dark"/>
 
 </p>
+
 
 
 
