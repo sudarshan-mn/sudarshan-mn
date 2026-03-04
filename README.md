@@ -93,7 +93,9 @@ https://github.com/sudarshan-mn
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshan-mn&theme=github_dark"/>
 
 </p>
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/sudarshan-mn/sudarshan-mn/blob/output/github-contribution-grid-snake.svg)
 
 
 
