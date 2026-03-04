@@ -100,7 +100,7 @@ Backend architecture inspired by Airbnb platform.
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo%202&ext=contest"/>
+<img src="https://leetcode.com/u/SUDARSHAN_MN/"/>
 
 </p>
 
