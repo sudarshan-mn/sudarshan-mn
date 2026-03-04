@@ -95,6 +95,15 @@ Backend architecture inspired by Airbnb platform.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshan-mn&theme=github_dark"/>
 
 </p>
+---
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo%202&ext=contest"/>
+
+</p>
+
 
 ---
 
