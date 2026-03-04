@@ -96,11 +96,11 @@ Backend architecture inspired by Airbnb platform.
 
 </p>
 ---
-# 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
 
-<img src="https://leetcode.com/u/SUDARSHAN_MN/"/>
+<img src="https://leetcard.jacoblin.cool/SUDARSHAN_MN?theme=dark&font=Baloo%202&ext=contest"/>
 
 </p>
 
